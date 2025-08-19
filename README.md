@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurav Garad</h1>
+<h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">Code. Automate. Innovate.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav0770&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav0770" /> </p>
