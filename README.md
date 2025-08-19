@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav0770&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav0770" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav0770" alt="gaurav0770" /></a> </p>
-
-- 🔭 I’m currently working on **my-portfolio**
+- 🔭 I’m currently working for **my organization**
 
 - 🌱 I’m currently learning **TypeScript & Next.js**
 
